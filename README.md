@@ -1,2 +1,1 @@
-# mishapod.github.io
-website placeholder
+Currently under construction - follow along for updates!
